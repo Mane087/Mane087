@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Alaniz</h1>
-<h3 align="center">I´m Full-Stack Developer</h3>
+<h3 align="center">I'm Full-Stack Developer</h3>
 
 - 📫 How to reach me **manealaniz95@gmail.com**
 
