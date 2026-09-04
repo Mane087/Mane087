@@ -10,7 +10,7 @@ alt="Typing animation: Emmanuel Alaniz"
 
 ## <samp>Relevant projects</samp>
 
-Open-source tools for developers who use AI as a thinking partner, not a crutch.
+Open-source tools for developers
 
 |  <samp>Project</samp> | <samp>Description</samp> |
 |  ------ | ------ |
