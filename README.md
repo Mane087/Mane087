@@ -10,7 +10,7 @@ alt="Typing animation: Emmanuel Alaniz"
 
 ## <samp>Relevant projects</samp>
 
-Open-source tools for developers
+Open-source tools, apps, and more for everyone
 
 |  <samp>Project</samp> | <samp>Description</samp> |
 |  ------ | ------ |
