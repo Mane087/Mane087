@@ -18,6 +18,7 @@ Open-source tools, apps, and more for everyone
 |  [G-Conflict](https://github.com/Mane087/gconflict)  | G-Conflict is a text-based terminal interface (TUI) for resolving Git conflicts. |
 |  [Memorized English](https://github.com/Mane087/memorized_english)  | A Flutter mobile application designed to help users learn and memorize English vocabulary through words and phrases.  |
 |  [Markdown Editor](https://github.com/Mane087/markdown_editor)  | Editor markdown online |
+| [Local-Docs](https://github.com/Mane087/local-docs) | View your docs locally |
 
 ##  <samp>Languages and Tools</samp>
 <p align="left">
