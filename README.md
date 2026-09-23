@@ -15,11 +15,13 @@ Open-source tools, apps, and more for everyone
 |  <samp>Project</samp> | <samp>Description</samp> |
 |  ------ | ------ |
 | [Skill Router](https://github.com/Mane087/skill-router) | An MCP server for discovering, ranking, and retrieving agent skills while minimizing context usage. |
-|  [Englis Reader](https://github.com/Mane087/english_reader)  | Desktop app for practicing English pronunciation. |
-|  [G-Conflict](https://github.com/Mane087/gconflict)  | G-Conflict is a text-based terminal interface (TUI) for resolving Git conflicts. |
-|  [Memorized English](https://github.com/Mane087/memorized_english)  | A Flutter mobile application designed to help users learn and memorize English vocabulary through words and phrases.  |
-|  [Markdown Editor](https://github.com/Mane087/markdown_editor)  | Editor markdown online |
+| [Markdown Editor](https://github.com/Mane087/markdown_editor)  | Editor markdown online |
 | [Local-Docs](https://github.com/Mane087/local-docs) | View your docs locally |
+| [PDF-Reader](https://github.com/Mane087/pdf-reader) | A privacy-first local PDF reader for highlighting text and saving standard PDF annotations directly into the original file. |
+| [G-Conflict](https://github.com/Mane087/gconflict)  | G-Conflict is a text-based terminal interface (TUI) for resolving Git conflicts. |
+| [Englis Reader](https://github.com/Mane087/english_reader)  | Desktop app for practicing English pronunciation. |
+| [Memorized English](https://github.com/Mane087/memorized_english)  | A Flutter mobile application designed to help users learn and memorize English vocabulary through words and phrases.  |
+
 
 ##  <samp>Languages and Tools</samp>
 <p align="left">
