@@ -16,6 +16,7 @@ Open-source tools, apps, and more for everyone
 |  ------ | ------ |
 | [Skill Router](https://github.com/Mane087/skill-router) | An MCP server for discovering, ranking, and retrieving agent skills while minimizing context usage. |
 | [Markdown Editor](https://github.com/Mane087/markdown_editor)  | Editor markdown online |
+| [PR-tracker](https://github.com/Mane087/pr-tracker) | A local-first PWA for organizing and tracking work and review queues across multiple GitHub accounts. |
 | [Local-Docs](https://github.com/Mane087/local-docs) | View your docs locally |
 | [PDF-Reader](https://github.com/Mane087/pdf-reader) | A privacy-first local PDF reader for highlighting text and saving standard PDF annotations directly into the original file. |
 | [G-Conflict](https://github.com/Mane087/gconflict)  | G-Conflict is a text-based terminal interface (TUI) for resolving Git conflicts. |
